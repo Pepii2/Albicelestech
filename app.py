@@ -5,7 +5,7 @@ import home, plans, test_image
 st.set_page_config(layout="wide")
 
 # Header for the application
-st.header("Custom tab component for on-hover navigation bar")
+st.header("Bienvenido a FaceAi")
 
 # Importing CSS for styling
 st.markdown('<style>' + open('./styles.css').read() + '</style>', unsafe_allow_html=True)
